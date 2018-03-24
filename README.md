@@ -25,3 +25,4 @@ How to install?
       sudo rm -f /var/vm/sleepimage
 
       sudo pmset hibernatefile /dev/null
++ Restart and enjoy

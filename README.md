@@ -1,7 +1,7 @@
 # Patch fix brightness and AppleHDA patched for Dell Latitude E6540
 
 How to install?
-+ Update A21 BIOS version <a href="https://www.dell.com/support/home/vn/en/vnbsdt1/Drivers/DriversDetails?driverId=Y5FNT">here</a>
++ Update A21 BIOS version <a href="https://www.dell.com/support/home/vn/en/vnbsdt1/Drivers/DriversDetails?driverId=Y5FNT">here</a> // Unnecessary. Fixed for all BIOS version 
 + After install macOS, download my patch and put it in Library/Extensions (L/E)
 + Open terminal and run these command to rebuild kextcache
 
